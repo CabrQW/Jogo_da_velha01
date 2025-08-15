@@ -10,6 +10,6 @@ Tabuleiro atual:
 
  X |   |  
 -----------
- O | O |  
+ O | O | X 
 -----------
  X |   |  
