@@ -8,8 +8,8 @@ Posições no tabuleiro:
 
 Tabuleiro atual:
 
- 1  |   |  
+ X |   |  
 -----------
-   |   |  
+   | O |  
 -----------
    |   |  
