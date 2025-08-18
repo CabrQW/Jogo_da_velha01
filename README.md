@@ -1,3 +1,9 @@
+Integrantes do projeto:
+
+Carlos Eduardo - GitHub: CabrQW
+Filipe Machado - GitHub: FLPMSZ
+Guilherme Oliveira Reis: GitHub: reisgui2006
+
 <h1>Documentação do Jogo_da_velha01</h1>
 
 Passo 1 - Criando o repositório <br>
