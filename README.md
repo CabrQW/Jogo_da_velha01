@@ -1,9 +1,3 @@
-Integrantes do projeto:
-
-Carlos Eduardo - GitHub: CabrQW
-Filipe Machado - GitHub: FLPMSZ
-Guilherme Oliveira Reis: GitHub: reisgui2006
-
 <h1>Documentação do Jogo_da_velha01</h1>
 
 Passo 1 - Criando o repositório <br>
@@ -45,3 +39,9 @@ Passo 1 - Criando o repositório <br>
  commit 1 - reisgui2006 <br> 
  Create Jogo.txt - CabrQW (Verified) <br> 
  Initial commit - CabrQW (Verified) <br> 
+
+Integrantes do projeto: <br>
+
+Carlos Eduardo - GitHub: CabrQW <br>
+Filipe Machado - GitHub: FLPMSZ <br> 
+Guilherme Oliveira Reis: GitHub: reisgui2006 
